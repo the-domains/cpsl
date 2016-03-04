@@ -1,14 +1,26 @@
-layout_spectrum: 0.2744681
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5191489
 color:
-  saturation: 0.5276596
-  lightness: 0.0893617
+  saturation: 0.4978724
   brandStrength: 0
+  lightness: 0.2723404
   brandColors:
     - '#010216'
     - '#F5F5F4'
     - '#6C6656'
     - '#026D7F'
     - '#770230'
-  rhythmicContrast: 0.1744681
-typography_spectrum: 0.5191489
+  rhythmicContrast: 0.3255319
+layout_spectrum: 0.2744681
 name: CPSL
