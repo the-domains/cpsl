@@ -1,0 +1,14 @@
+layout_spectrum: 0.2744681
+color:
+  saturation: 0.5276596
+  lightness: 0.0893617
+  brandStrength: 0
+  brandColors:
+    - '#010216'
+    - '#F5F5F4'
+    - '#6C6656'
+    - '#026D7F'
+    - '#770230'
+  rhythmicContrast: 0.1744681
+typography_spectrum: 0.5191489
+name: CPSL
